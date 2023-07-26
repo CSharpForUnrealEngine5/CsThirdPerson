@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\UnrealEngine\\Dev\\CSharpForUnrealEngine5\\CSharpExamples\\ThirdPerson\\Source\\ThirdPerson\\Game\\Game.csproj": {}
+    "C:\\UnrealEngine\\CSharpForUnrealEngine5\\CsThirdPerson\\Source\\ThirdPerson\\Game\\Game.csproj": {}
   },
   "projects": {
-    "C:\\UnrealEngine\\Dev\\CSharpForUnrealEngine5\\CSharpExamples\\Compiler\\CSharpToCpp.Utilities\\CSharpToCpp.Utilities.csproj": {
+    "C:\\UnrealEngine\\CSharpForUnrealEngine5\\CsThirdPerson\\Plugins\\CsToCpp\\Compiler\\CSharpToCpp.Utilities\\CSharpToCpp.Utilities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\UnrealEngine\\Dev\\CSharpForUnrealEngine5\\CSharpExamples\\Compiler\\CSharpToCpp.Utilities\\CSharpToCpp.Utilities.csproj",
+        "projectUniqueName": "C:\\UnrealEngine\\CSharpForUnrealEngine5\\CsThirdPerson\\Plugins\\CsToCpp\\Compiler\\CSharpToCpp.Utilities\\CSharpToCpp.Utilities.csproj",
         "projectName": "CSharpToCpp.Utilities",
-        "projectPath": "C:\\UnrealEngine\\Dev\\CSharpForUnrealEngine5\\CSharpExamples\\Compiler\\CSharpToCpp.Utilities\\CSharpToCpp.Utilities.csproj",
+        "projectPath": "C:\\UnrealEngine\\CSharpForUnrealEngine5\\CsThirdPerson\\Plugins\\CsToCpp\\Compiler\\CSharpToCpp.Utilities\\CSharpToCpp.Utilities.csproj",
         "packagesPath": "C:\\Users\\Jerome\\.nuget\\packages\\",
-        "outputPath": "C:\\UnrealEngine\\Dev\\CSharpForUnrealEngine5\\CSharpExamples\\Compiler\\CSharpToCpp.Utilities\\obj\\",
+        "outputPath": "C:\\UnrealEngine\\CSharpForUnrealEngine5\\CsThirdPerson\\Plugins\\CsToCpp\\Compiler\\CSharpToCpp.Utilities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jerome\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -59,14 +59,14 @@
         }
       }
     },
-    "C:\\UnrealEngine\\Dev\\CSharpForUnrealEngine5\\CSharpExamples\\Compiler\\GameFramework5_2\\GameFramework\\GameFramework.csproj": {
+    "C:\\UnrealEngine\\CSharpForUnrealEngine5\\CsThirdPerson\\Plugins\\CsToCpp\\Compiler\\GameFramework5_2\\GameFramework\\GameFramework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\UnrealEngine\\Dev\\CSharpForUnrealEngine5\\CSharpExamples\\Compiler\\GameFramework5_2\\GameFramework\\GameFramework.csproj",
+        "projectUniqueName": "C:\\UnrealEngine\\CSharpForUnrealEngine5\\CsThirdPerson\\Plugins\\CsToCpp\\Compiler\\GameFramework5_2\\GameFramework\\GameFramework.csproj",
         "projectName": "GameFramework",
-        "projectPath": "C:\\UnrealEngine\\Dev\\CSharpForUnrealEngine5\\CSharpExamples\\Compiler\\GameFramework5_2\\GameFramework\\GameFramework.csproj",
+        "projectPath": "C:\\UnrealEngine\\CSharpForUnrealEngine5\\CsThirdPerson\\Plugins\\CsToCpp\\Compiler\\GameFramework5_2\\GameFramework\\GameFramework.csproj",
         "packagesPath": "C:\\Users\\Jerome\\.nuget\\packages\\",
-        "outputPath": "C:\\UnrealEngine\\Dev\\CSharpForUnrealEngine5\\CSharpExamples\\Compiler\\GameFramework5_2\\GameFramework\\obj\\",
+        "outputPath": "C:\\UnrealEngine\\CSharpForUnrealEngine5\\CsThirdPerson\\Plugins\\CsToCpp\\Compiler\\GameFramework5_2\\GameFramework\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jerome\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -83,8 +83,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\UnrealEngine\\Dev\\CSharpForUnrealEngine5\\CSharpExamples\\Compiler\\CSharpToCpp.Utilities\\CSharpToCpp.Utilities.csproj": {
-                "projectPath": "C:\\UnrealEngine\\Dev\\CSharpForUnrealEngine5\\CSharpExamples\\Compiler\\CSharpToCpp.Utilities\\CSharpToCpp.Utilities.csproj"
+              "C:\\UnrealEngine\\CSharpForUnrealEngine5\\CsThirdPerson\\Plugins\\CsToCpp\\Compiler\\CSharpToCpp.Utilities\\CSharpToCpp.Utilities.csproj": {
+                "projectPath": "C:\\UnrealEngine\\CSharpForUnrealEngine5\\CsThirdPerson\\Plugins\\CsToCpp\\Compiler\\CSharpToCpp.Utilities\\CSharpToCpp.Utilities.csproj"
               }
             }
           }
@@ -118,14 +118,14 @@
         }
       }
     },
-    "C:\\UnrealEngine\\Dev\\CSharpForUnrealEngine5\\CSharpExamples\\ThirdPerson\\Source\\ThirdPerson\\Game\\Game.csproj": {
+    "C:\\UnrealEngine\\CSharpForUnrealEngine5\\CsThirdPerson\\Source\\ThirdPerson\\Game\\Game.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\UnrealEngine\\Dev\\CSharpForUnrealEngine5\\CSharpExamples\\ThirdPerson\\Source\\ThirdPerson\\Game\\Game.csproj",
+        "projectUniqueName": "C:\\UnrealEngine\\CSharpForUnrealEngine5\\CsThirdPerson\\Source\\ThirdPerson\\Game\\Game.csproj",
         "projectName": "Game",
-        "projectPath": "C:\\UnrealEngine\\Dev\\CSharpForUnrealEngine5\\CSharpExamples\\ThirdPerson\\Source\\ThirdPerson\\Game\\Game.csproj",
+        "projectPath": "C:\\UnrealEngine\\CSharpForUnrealEngine5\\CsThirdPerson\\Source\\ThirdPerson\\Game\\Game.csproj",
         "packagesPath": "C:\\Users\\Jerome\\.nuget\\packages\\",
-        "outputPath": "C:\\UnrealEngine\\Dev\\CSharpForUnrealEngine5\\CSharpExamples\\ThirdPerson\\Source\\ThirdPerson\\Game\\obj\\",
+        "outputPath": "C:\\UnrealEngine\\CSharpForUnrealEngine5\\CsThirdPerson\\Source\\ThirdPerson\\Game\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jerome\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -142,8 +142,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\UnrealEngine\\Dev\\CSharpForUnrealEngine5\\CSharpExamples\\Compiler\\GameFramework5_2\\GameFramework\\GameFramework.csproj": {
-                "projectPath": "C:\\UnrealEngine\\Dev\\CSharpForUnrealEngine5\\CSharpExamples\\Compiler\\GameFramework5_2\\GameFramework\\GameFramework.csproj"
+              "C:\\UnrealEngine\\CSharpForUnrealEngine5\\CsThirdPerson\\Plugins\\CsToCpp\\Compiler\\CSharpToCpp.Utilities\\CSharpToCpp.Utilities.csproj": {
+                "projectPath": "C:\\UnrealEngine\\CSharpForUnrealEngine5\\CsThirdPerson\\Plugins\\CsToCpp\\Compiler\\CSharpToCpp.Utilities\\CSharpToCpp.Utilities.csproj"
+              },
+              "C:\\UnrealEngine\\CSharpForUnrealEngine5\\CsThirdPerson\\Plugins\\CsToCpp\\Compiler\\GameFramework5_2\\GameFramework\\GameFramework.csproj": {
+                "projectPath": "C:\\UnrealEngine\\CSharpForUnrealEngine5\\CsThirdPerson\\Plugins\\CsToCpp\\Compiler\\GameFramework5_2\\GameFramework\\GameFramework.csproj"
               }
             }
           }

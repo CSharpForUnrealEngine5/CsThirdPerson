@@ -1,10 +1,10 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\unrealengine\\dev\\thirdperson\\intermediate\\build\\win64\\x64\\thirdpersoneditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.cpp",
+        "Source": "c:\\unrealengine\\csharpforunrealengine5\\csthirdperson\\intermediate\\build\\win64\\x64\\thirdpersoneditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.cpp",
         "ProvidedModule": "",
         "Includes": [
-            "c:\\unrealengine\\dev\\thirdperson\\intermediate\\build\\win64\\x64\\thirdpersoneditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h",
+            "c:\\unrealengine\\csharpforunrealengine5\\csthirdperson\\intermediate\\build\\win64\\x64\\thirdpersoneditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h",
             "c:\\unrealengine\\engines\\ue_5.2\\engine\\source\\runtime\\engine\\public\\enginesharedpch.h",
             "c:\\unrealengine\\engines\\ue_5.2\\engine\\source\\runtime\\core\\public\\containers\\containersfwd.h",
             "c:\\unrealengine\\engines\\ue_5.2\\engine\\source\\runtime\\core\\public\\hal\\platform.h",

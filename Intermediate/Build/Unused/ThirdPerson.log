@@ -1,6 +1,30 @@
 ﻿  Using bundled DotNet SDK version: 6.0.302
-  Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" ThirdPersonEditor Win64 DebugGame -Project="C:\UnrealEngine\Dev\CSharpForUnrealEngine5\CSharpExamples\ThirdPerson\ThirdPerson.uproject" -WaitMutex -FromMsBuild
+  Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" ThirdPersonEditor Win64 Development -Project="C:\UnrealEngine\CSharpForUnrealEngine5\CsThirdPerson\ThirdPerson.uproject" -WaitMutex -FromMsBuild
   Log file: C:\Users\Jerome\AppData\Local\UnrealBuildTool\Log.txt
-  Using 'git status' to determine working set for adaptive non-unity build (C:\UnrealEngine\Dev\CSharpForUnrealEngine5\CSharpExamples).
-  Target is up to date
-  Total execution time: 0.58 seconds
+  Using 'git status' to determine working set for adaptive non-unity build (C:\UnrealEngine\CSharpForUnrealEngine5\CsThirdPerson).
+  Invalidating makefile for ThirdPersonEditor (working set of source files changed)
+  Parsing headers for ThirdPersonEditor
+    Running Internal UnrealHeaderTool C:\UnrealEngine\CSharpForUnrealEngine5\CsThirdPerson\ThirdPerson.uproject C:\UnrealEngine\CSharpForUnrealEngine5\CsThirdPerson\Intermediate\Build\Win64\ThirdPersonEditor\Development\ThirdPersonEditor.uhtmanifest -WarningsAsErrors -installed
+  Total of 1 written
+  Reflection code generated for ThirdPersonEditor in 0.9593705 seconds
+  Building ThirdPersonEditor...
+  Using Visual Studio 2022 14.33.31629 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  [Upgrade]
+  [Upgrade] Using backward-compatible include order. The latest version of UE has changed the order of includes, which may require code changes. The current setting is:
+  [Upgrade]     IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_1
+  [Upgrade] Suppress this message by setting 'IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_2;' in ThirdPersonEditor.Target.cs.
+  [Upgrade] Alternatively you can set this to 'EngineIncludeOrderVersion.Latest' to always use the latest include order. This will potentially cause compile errors when integrating new versions of the engine.
+  [Upgrade]
+  [Adaptive Build] Excluded from ThirdPerson unity file: CSharpCharacter.cpp
+  Determining max actions to execute in parallel (14 physical cores, 20 logical cores)
+    Executing up to 14 processes, one per physical core
+  Building 5 actions with 5 processes...
+  [1/5] Compile [x64] CSharpCharacter.cpp
+  [2/5] Compile [x64] CSharpCharacter.gen.cpp
+  [3/5] Link [x64] UnrealEditor-ThirdPerson.lib
+     Creating library C:\UnrealEngine\CSharpForUnrealEngine5\CsThirdPerson\Intermediate\Build\Win64\x64\UnrealEditor\Development\ThirdPerson\UnrealEditor-ThirdPerson.lib and object C:\UnrealEngine\CSharpForUnrealEngine5\CsThirdPerson\Intermediate\Build\Win64\x64\UnrealEditor\Development\ThirdPerson\UnrealEditor-ThirdPerson.exp
+  [4/5] Link [x64] UnrealEditor-ThirdPerson.dll
+     Creating library C:\UnrealEngine\CSharpForUnrealEngine5\CsThirdPerson\Intermediate\Build\Win64\x64\UnrealEditor\Development\ThirdPerson\UnrealEditor-ThirdPerson.suppressed.lib and object C:\UnrealEngine\CSharpForUnrealEngine5\CsThirdPerson\Intermediate\Build\Win64\x64\UnrealEditor\Development\ThirdPerson\UnrealEditor-ThirdPerson.suppressed.exp
+  [5/5] WriteMetadata ThirdPersonEditor.target
+  Total time in Parallel executor: 2.54 seconds
+  Total execution time: 5.14 seconds

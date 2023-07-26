@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ThirdPerson.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\UnrealEngine\Dev\ThirdPerson\Intermediate\Build\Win64\x64\ThirdPersonEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.obj"
+"C:\UnrealEngine\Dev\ThirdPerson\Intermediate\Build\Win64\x64\UnrealEditor\Development\ThirdPerson\ThirdPerson.init.gen.cpp.obj"
+"C:\UnrealEngine\Dev\ThirdPerson\Intermediate\Build\Win64\x64\UnrealEditor\Development\ThirdPerson\ThirdPersonCharacter.gen.cpp.obj"
+"C:\UnrealEngine\Dev\ThirdPerson\Intermediate\Build\Win64\x64\UnrealEditor\Development\ThirdPerson\ThirdPersonGameMode.gen.cpp.obj"
+"C:\UnrealEngine\Dev\ThirdPerson\Intermediate\Build\Win64\x64\UnrealEditor\Development\ThirdPerson\ThirdPerson.cpp.obj"
+"C:\UnrealEngine\Dev\ThirdPerson\Intermediate\Build\Win64\x64\UnrealEditor\Development\ThirdPerson\ThirdPersonCharacter.cpp.obj"
+"C:\UnrealEngine\Dev\ThirdPerson\Intermediate\Build\Win64\x64\UnrealEditor\Development\ThirdPerson\ThirdPersonGameMode.cpp.obj"
+"C:\UnrealEngine\Dev\ThirdPerson\Intermediate\Build\Win64\x64\UnrealEditor\Development\ThirdPerson\Default.rc2.res"
+/OUT:"C:\UnrealEngine\Dev\ThirdPerson\Intermediate\Build\Win64\x64\UnrealEditor\Development\ThirdPerson\UnrealEditor-ThirdPerson.lib"

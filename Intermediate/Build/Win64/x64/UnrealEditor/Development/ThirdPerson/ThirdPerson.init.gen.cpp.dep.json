@@ -1,11 +1,11 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\unrealengine\\dev\\thirdperson\\intermediate\\build\\win64\\unrealeditor\\inc\\thirdperson\\uht\\thirdperson.init.gen.cpp",
+        "Source": "c:\\unrealengine\\csharpforunrealengine5\\csthirdperson\\intermediate\\build\\win64\\unrealeditor\\inc\\thirdperson\\uht\\thirdperson.init.gen.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\unrealengine\\dev\\thirdperson\\intermediate\\build\\win64\\x64\\thirdpersoneditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "PCH": "c:\\unrealengine\\csharpforunrealengine5\\csthirdperson\\intermediate\\build\\win64\\x64\\thirdpersoneditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
         "Includes": [
-            "c:\\unrealengine\\dev\\thirdperson\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\thirdperson\\definitions.thirdperson.h"
+            "c:\\unrealengine\\csharpforunrealengine5\\csthirdperson\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\thirdperson\\definitions.thirdperson.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

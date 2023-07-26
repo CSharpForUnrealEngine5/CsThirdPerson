@@ -1,29 +1,17 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\unrealengine\\dev\\thirdperson\\source\\thirdperson\\thirdpersongamemode.cpp",
+        "Source": "c:\\unrealengine\\csharpforunrealengine5\\csthirdperson\\source\\thirdperson\\thirdpersongamemode.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\unrealengine\\dev\\thirdperson\\intermediate\\build\\win64\\x64\\thirdpersoneditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "PCH": "c:\\unrealengine\\csharpforunrealengine5\\csthirdperson\\intermediate\\build\\win64\\x64\\thirdpersoneditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
         "Includes": [
-            "c:\\unrealengine\\dev\\thirdperson\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\thirdperson\\definitions.thirdperson.h",
-            "c:\\unrealengine\\dev\\thirdperson\\source\\thirdperson\\thirdpersongamemode.h",
+            "c:\\unrealengine\\csharpforunrealengine5\\csthirdperson\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\thirdperson\\definitions.thirdperson.h",
+            "c:\\unrealengine\\csharpforunrealengine5\\csthirdperson\\source\\thirdperson\\thirdpersongamemode.h",
             "c:\\unrealengine\\engines\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
             "c:\\unrealengine\\engines\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
             "c:\\unrealengine\\engines\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
             "c:\\unrealengine\\engines\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
-            "c:\\unrealengine\\dev\\thirdperson\\intermediate\\build\\win64\\unrealeditor\\inc\\thirdperson\\uht\\thirdpersongamemode.generated.h",
-            "c:\\unrealengine\\dev\\thirdperson\\source\\thirdperson\\thirdpersoncharacter.h",
-            "c:\\unrealengine\\engines\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
-            "c:\\unrealengine\\engines\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
-            "c:\\unrealengine\\engines\\ue_5.2\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
-            "c:\\unrealengine\\engines\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
-            "c:\\unrealengine\\engines\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
-            "c:\\unrealengine\\engines\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
-            "c:\\unrealengine\\engines\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
-            "c:\\unrealengine\\engines\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
-            "c:\\unrealengine\\engines\\ue_5.2\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputactionvalue.h",
-            "c:\\unrealengine\\engines\\ue_5.2\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputactionvalue.generated.h",
-            "c:\\unrealengine\\dev\\thirdperson\\intermediate\\build\\win64\\unrealeditor\\inc\\thirdperson\\uht\\thirdpersoncharacter.generated.h"
+            "c:\\unrealengine\\csharpforunrealengine5\\csthirdperson\\intermediate\\build\\win64\\unrealeditor\\inc\\thirdperson\\uht\\thirdpersongamemode.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

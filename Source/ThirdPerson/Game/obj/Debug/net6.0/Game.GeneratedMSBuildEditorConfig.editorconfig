@@ -7,4 +7,4 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Game
-build_property.ProjectDir = C:\UnrealEngine\Dev\CSharpForUnrealEngine5\CSharpExamples\ThirdPerson\Source\ThirdPerson\Game\
+build_property.ProjectDir = C:\UnrealEngine\CSharpForUnrealEngine5\CsThirdPerson\Source\ThirdPerson\Game\

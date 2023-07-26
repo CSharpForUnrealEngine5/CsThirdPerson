@@ -1,18 +1,19 @@
-C:\UnrealEngine\CSharpForUnrealEngine5\CsThirdPerson\Intermediate\Build\Win64\UnrealEditor\Inc\ThirdPerson\UHT\ThirdPersonGameMode.gen.cpp
+C:\UnrealEngine\Dev\ThirdPerson\Intermediate\Build\Win64\x64\ThirdPersonEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.cpp
 /I .
-/I C:\UnrealEngine\CSharpForUnrealEngine5\CsThirdPerson\Intermediate\Build\Win64\UnrealEditor\Inc\ThirdPerson\UHT
-/I C:\UnrealEngine\CSharpForUnrealEngine5\CsThirdPerson\Source
-/I Runtime\TraceLog\Public
-/I Runtime\Core\Public
-/I Runtime
-/I ..\Intermediate\Build\Win64\UnrealEditor\Inc\CoreUObject\UHT
-/I Runtime\CoreUObject\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\UHT
 /I ..\Shaders\Shared
 /I Runtime\Engine\Classes
 /I Runtime\Engine\Public
+/I Runtime
+/I Runtime\Engine\Internal
+/I Runtime\TraceLog\Public
+/I Runtime\Core\Public
+/I Runtime\Core\Internal
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\CoreOnline\UHT
 /I Runtime\CoreOnline\Public
+/I ..\Intermediate\Build\Win64\UnrealEditor\Inc\CoreUObject\UHT
+/I Runtime\CoreUObject\Public
+/I Runtime\CoreUObject\Internal
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\NetCore\UHT
 /I Runtime\Net\Core\Classes
 /I Runtime\Net\Core\Public
@@ -70,6 +71,7 @@ C:\UnrealEngine\CSharpForUnrealEngine5\CsThirdPerson\Intermediate\Build\Win64\Un
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\AnimationCore\UHT
 /I Runtime\AnimationCore\Public
 /I Runtime\PakFile\Public
+/I Runtime\PakFile\Internal
 /I Runtime\RSA\Public
 /I Runtime\NetworkReplayStreaming\NetworkReplayStreaming\Public
 /I Runtime\NetworkReplayStreaming
@@ -89,6 +91,7 @@ C:\UnrealEngine\CSharpForUnrealEngine5\CsThirdPerson\Intermediate\Build\Win64\Un
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\AudioLinkCore\UHT
 /I Runtime\AudioLink\AudioLinkCore\Public
 /I Runtime\AudioLink
+/I Runtime\CookOnTheFly\Internal
 /I Runtime\Networking\Public
 /I Developer\TextureBuildUtilities\Public
 /I Developer
@@ -274,13 +277,6 @@ C:\UnrealEngine\CSharpForUnrealEngine5\CsThirdPerson\Intermediate\Build\Win64\Un
 /I Runtime\MovieSceneCapture\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\AnimationDataController\UHT
 /I Developer\AnimationDataController\Public
-/I ..\Intermediate\Build\Win64\UnrealEditor\Inc\AugmentedReality\UHT
-/I Runtime\AugmentedReality\Public
-/I ..\Intermediate\Build\Win64\UnrealEditor\Inc\MRMesh\UHT
-/I Runtime\MRMesh\Public
-/I ..\Plugins\EnhancedInput\Intermediate\Build\Win64\UnrealEditor\Inc\EnhancedInput\UHT
-/I ..\Plugins\EnhancedInput\Source\EnhancedInput\Public
-/I ..\Plugins\EnhancedInput\Source
 /external:W0
 /external:I ThirdParty\mimalloc\include
 /external:I ThirdParty\LibTiff\Source\Win64
@@ -290,12 +286,10 @@ C:\UnrealEngine\CSharpForUnrealEngine5\CsThirdPerson\Intermediate\Build\Win64\Un
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
-/FI"C:\UnrealEngine\CSharpForUnrealEngine5\CsThirdPerson\Intermediate\Build\Win64\x64\ThirdPersonEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h"
-/FI"C:\UnrealEngine\CSharpForUnrealEngine5\CsThirdPerson\Intermediate\Build\Win64\x64\UnrealEditor\Development\ThirdPerson\Definitions.ThirdPerson.h"
-/Yu"C:\UnrealEngine\CSharpForUnrealEngine5\CsThirdPerson\Intermediate\Build\Win64\x64\ThirdPersonEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h"
-/Fp"C:\UnrealEngine\CSharpForUnrealEngine5\CsThirdPerson\Intermediate\Build\Win64\x64\ThirdPersonEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.pch"
-/Fo"C:\UnrealEngine\CSharpForUnrealEngine5\CsThirdPerson\Intermediate\Build\Win64\x64\UnrealEditor\Development\ThirdPerson\ThirdPersonGameMode.gen.cpp.obj"
-/sourceDependencies C:\UnrealEngine\CSharpForUnrealEngine5\CsThirdPerson\Intermediate\Build\Win64\x64\UnrealEditor\Development\ThirdPerson\ThirdPersonGameMode.gen.cpp.dep.json
+/Yc"C:\UnrealEngine\Dev\ThirdPerson\Intermediate\Build\Win64\x64\ThirdPersonEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h"
+/Fp"C:\UnrealEngine\Dev\ThirdPerson\Intermediate\Build\Win64\x64\ThirdPersonEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.pch"
+/Fo"C:\UnrealEngine\Dev\ThirdPerson\Intermediate\Build\Win64\x64\ThirdPersonEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.obj"
+/sourceDependencies C:\UnrealEngine\Dev\ThirdPerson\Intermediate\Build\Win64\x64\ThirdPersonEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.dep.json
 /Zc:inline
 /nologo
 /Oi

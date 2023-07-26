@@ -11,7 +11,8 @@
   </Target>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\..\..\Compiler\GameFramework5_2\GameFramework\GameFramework.csproj" />
+    <ProjectReference Include="..\..\..\Plugins\CsToCpp\Compiler\CSharpToCpp.Utilities\CSharpToCpp.Utilities.csproj" />
+    <ProjectReference Include="..\..\..\Plugins\CsToCpp\Compiler\GameFramework5_2\GameFramework\GameFramework.csproj" />
   </ItemGroup>
 
 </Project>

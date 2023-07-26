@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v6.0": {
       "Game/1.0.0": {
         "dependencies": {
+          "CSharpToCpp.Utilities": "1.0.0",
           "GameFramework": "1.0.0"
         },
         "runtime": {

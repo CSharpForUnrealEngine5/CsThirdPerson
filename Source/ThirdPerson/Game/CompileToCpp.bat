@@ -1,4 +1,4 @@
 echo "Compiling to C++"
-cd C:\UnrealEngine\Dev\CSharpForUnrealEngine5\CSharpExamples\Compiler\bin
-.\CSharpToCpp.exe ..\..\ThirdPerson\Source\ThirdPerson\Game
+cd
+..\..\..\Plugins\CsToCpp\Compiler\bin\CSharpToCpp.exe .
 echo "Done"
