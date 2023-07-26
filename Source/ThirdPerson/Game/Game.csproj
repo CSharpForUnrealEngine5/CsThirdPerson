@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <Target Name="PostBuild" AfterTargets="PostBuildEvent">
+    <Exec Command="call CompileToCpp.bat" />
+  </Target>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\Compiler\GameFramework5_2\GameFramework\GameFramework.csproj" />
+  </ItemGroup>
+
+</Project>

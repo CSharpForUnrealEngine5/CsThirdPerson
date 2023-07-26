@@ -1,0 +1,6 @@
+﻿  Using bundled DotNet SDK version: 6.0.302
+  Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" ThirdPersonEditor Win64 DebugGame -Project="C:\UnrealEngine\Dev\CSharpForUnrealEngine5\CSharpExamples\ThirdPerson\ThirdPerson.uproject" -WaitMutex -FromMsBuild
+  Log file: C:\Users\Jerome\AppData\Local\UnrealBuildTool\Log.txt
+  Using 'git status' to determine working set for adaptive non-unity build (C:\UnrealEngine\Dev\CSharpForUnrealEngine5\CSharpExamples).
+  Target is up to date
+  Total execution time: 0.58 seconds

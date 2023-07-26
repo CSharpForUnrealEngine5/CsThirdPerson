@@ -1,0 +1,181 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\UnrealEngine\\Dev\\CSharpForUnrealEngine5\\CSharpExamples\\ThirdPerson\\Source\\ThirdPerson\\Game\\Game.csproj": {}
+  },
+  "projects": {
+    "C:\\UnrealEngine\\Dev\\CSharpForUnrealEngine5\\CSharpExamples\\Compiler\\CSharpToCpp.Utilities\\CSharpToCpp.Utilities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\UnrealEngine\\Dev\\CSharpForUnrealEngine5\\CSharpExamples\\Compiler\\CSharpToCpp.Utilities\\CSharpToCpp.Utilities.csproj",
+        "projectName": "CSharpToCpp.Utilities",
+        "projectPath": "C:\\UnrealEngine\\Dev\\CSharpForUnrealEngine5\\CSharpExamples\\Compiler\\CSharpToCpp.Utilities\\CSharpToCpp.Utilities.csproj",
+        "packagesPath": "C:\\Users\\Jerome\\.nuget\\packages\\",
+        "outputPath": "C:\\UnrealEngine\\Dev\\CSharpForUnrealEngine5\\CSharpExamples\\Compiler\\CSharpToCpp.Utilities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jerome\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\UnrealEngine\\Dev\\CSharpForUnrealEngine5\\CSharpExamples\\Compiler\\GameFramework5_2\\GameFramework\\GameFramework.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\UnrealEngine\\Dev\\CSharpForUnrealEngine5\\CSharpExamples\\Compiler\\GameFramework5_2\\GameFramework\\GameFramework.csproj",
+        "projectName": "GameFramework",
+        "projectPath": "C:\\UnrealEngine\\Dev\\CSharpForUnrealEngine5\\CSharpExamples\\Compiler\\GameFramework5_2\\GameFramework\\GameFramework.csproj",
+        "packagesPath": "C:\\Users\\Jerome\\.nuget\\packages\\",
+        "outputPath": "C:\\UnrealEngine\\Dev\\CSharpForUnrealEngine5\\CSharpExamples\\Compiler\\GameFramework5_2\\GameFramework\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jerome\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\UnrealEngine\\Dev\\CSharpForUnrealEngine5\\CSharpExamples\\Compiler\\CSharpToCpp.Utilities\\CSharpToCpp.Utilities.csproj": {
+                "projectPath": "C:\\UnrealEngine\\Dev\\CSharpForUnrealEngine5\\CSharpExamples\\Compiler\\CSharpToCpp.Utilities\\CSharpToCpp.Utilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\UnrealEngine\\Dev\\CSharpForUnrealEngine5\\CSharpExamples\\ThirdPerson\\Source\\ThirdPerson\\Game\\Game.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\UnrealEngine\\Dev\\CSharpForUnrealEngine5\\CSharpExamples\\ThirdPerson\\Source\\ThirdPerson\\Game\\Game.csproj",
+        "projectName": "Game",
+        "projectPath": "C:\\UnrealEngine\\Dev\\CSharpForUnrealEngine5\\CSharpExamples\\ThirdPerson\\Source\\ThirdPerson\\Game\\Game.csproj",
+        "packagesPath": "C:\\Users\\Jerome\\.nuget\\packages\\",
+        "outputPath": "C:\\UnrealEngine\\Dev\\CSharpForUnrealEngine5\\CSharpExamples\\ThirdPerson\\Source\\ThirdPerson\\Game\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jerome\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\UnrealEngine\\Dev\\CSharpForUnrealEngine5\\CSharpExamples\\Compiler\\GameFramework5_2\\GameFramework\\GameFramework.csproj": {
+                "projectPath": "C:\\UnrealEngine\\Dev\\CSharpForUnrealEngine5\\CSharpExamples\\Compiler\\GameFramework5_2\\GameFramework\\GameFramework.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

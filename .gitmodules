@@ -1,0 +1,3 @@
+[submodule "Plugins/CsToCpp"]
+	path = Plugins/CsToCpp
+	url = git@github.com:CSharpForUnrealEngine5/CsToCpp.git

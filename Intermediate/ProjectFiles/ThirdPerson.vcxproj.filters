@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ThirdPerson.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ThirdPerson.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ThirdPersonEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.gitignore" />
+    <None Include="..\..\.gitmodules" />
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\LICENSE" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Platforms">
+      <UniqueIdentifier>{ED49A36C-4FD5-37E5-A2AC-E11BEF4F21CF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Platforms\HoloLens">
+      <UniqueIdentifier>{28125F47-4973-377C-9D77-EBC3C72EC856}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Platforms\HoloLens\Config">
+      <UniqueIdentifier>{D3BF39CB-FA64-39E2-A327-B5021BA69773}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Platforms\HoloLens\Config\HoloLensEngine.ini">
+      <Filter>Platforms\HoloLens\Config</Filter>
+    </None>
+    <Filter Include="Plugins">
+      <UniqueIdentifier>{BB38096A-B391-30DC-A0D4-4F3EA6B44507}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\CsToCpp">
+      <UniqueIdentifier>{9FE1037F-143A-3579-8183-F955A3D7E6F6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\CsToCpp\Source">
+      <UniqueIdentifier>{9A007765-002F-329A-9F54-2E6CEA56BB72}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\CsToCpp\Source\CsToCpp">
+      <UniqueIdentifier>{378A9A98-6755-3B74-814C-4644B02C65FD}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\CsToCpp\Source\CsToCpp\CsToCpp.Build.cs">
+      <Filter>Plugins\CsToCpp\Source\CsToCpp</Filter>
+    </None>
+    <Filter Include="Plugins\CsToCpp\Source\CsToCpp\Private">
+      <UniqueIdentifier>{B59F91CC-779F-3FDD-8B49-83F9A429E3C4}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\CsToCpp\Source\CsToCpp\Private\CsToCpp.cpp">
+      <Filter>Plugins\CsToCpp\Source\CsToCpp\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\CsToCpp\Source\CsToCpp\Public">
+      <UniqueIdentifier>{0A0BF237-3868-3A67-8FC5-6AEEA016A811}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\CsToCpp\Source\CsToCpp\Public\CsToCpp.h">
+      <Filter>Plugins\CsToCpp\Source\CsToCpp\Public</Filter>
+    </ClInclude>
+    <None Include="..\..\Plugins\CsToCpp\CsToCpp.uplugin">
+      <Filter>Plugins\CsToCpp</Filter>
+    </None>
+    <Filter Include="Plugins\CsToCpp\Resources">
+      <UniqueIdentifier>{335BFD4F-92CD-3797-A3B6-FA69050C8EA4}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\CsToCpp\Resources\Icon128.png">
+      <Filter>Plugins\CsToCpp\Resources</Filter>
+    </None>
+    <Filter Include="Source\ThirdPerson">
+      <UniqueIdentifier>{0C942851-8FE3-3A87-B2D6-D8B4E6862379}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ThirdPerson\ThirdPerson.Build.cs">
+      <Filter>Source\ThirdPerson</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ThirdPerson\ThirdPerson.cpp">
+      <Filter>Source\ThirdPerson</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ThirdPerson\ThirdPerson.h">
+      <Filter>Source\ThirdPerson</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ThirdPerson\ThirdPersonGameMode.cpp">
+      <Filter>Source\ThirdPerson</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ThirdPerson\ThirdPersonGameMode.h">
+      <Filter>Source\ThirdPerson</Filter>
+    </ClInclude>
+    <Filter Include="Source\ThirdPerson\Game">
+      <UniqueIdentifier>{84D32F86-0AD4-3062-8743-8C1007D60F2E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ThirdPerson\Game\CompileToCpp.bat">
+      <Filter>Source\ThirdPerson\Game</Filter>
+    </None>
+    <None Include="..\..\Source\ThirdPerson\Game\CSharpCharacter.cs">
+      <Filter>Source\ThirdPerson\Game</Filter>
+    </None>
+    <Filter Include="Source\ThirdPerson\Game\bin">
+      <UniqueIdentifier>{6A0793E4-842C-3268-8010-FCD6CF443F0C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\ThirdPerson\Game\bin\Debug">
+      <UniqueIdentifier>{664B1EF4-A48F-347A-98FE-061277366E06}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\ThirdPerson\Game\bin\Debug\net6.0">
+      <UniqueIdentifier>{B614009E-AC6F-30C1-9081-F10CE2076A30}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ThirdPerson\Game\bin\Debug\net6.0\CSharpToCpp.Utilities.dll">
+      <Filter>Source\ThirdPerson\Game\bin\Debug\net6.0</Filter>
+    </None>
+    <None Include="..\..\Source\ThirdPerson\Game\bin\Debug\net6.0\CSharpToCpp.Utilities.pdb">
+      <Filter>Source\ThirdPerson\Game\bin\Debug\net6.0</Filter>
+    </None>
+    <None Include="..\..\Source\ThirdPerson\Game\bin\Debug\net6.0\Game.deps.json">
+      <Filter>Source\ThirdPerson\Game\bin\Debug\net6.0</Filter>
+    </None>
+    <None Include="..\..\Source\ThirdPerson\Game\bin\Debug\net6.0\Game.dll">
+      <Filter>Source\ThirdPerson\Game\bin\Debug\net6.0</Filter>
+    </None>
+    <None Include="..\..\Source\ThirdPerson\Game\bin\Debug\net6.0\Game.pdb">
+      <Filter>Source\ThirdPerson\Game\bin\Debug\net6.0</Filter>
+    </None>
+    <None Include="..\..\Source\ThirdPerson\Game\bin\Debug\net6.0\GameFramework.dll">
+      <Filter>Source\ThirdPerson\Game\bin\Debug\net6.0</Filter>
+    </None>
+    <None Include="..\..\Source\ThirdPerson\Game\bin\Debug\net6.0\GameFramework.pdb">
+      <Filter>Source\ThirdPerson\Game\bin\Debug\net6.0</Filter>
+    </None>
+    <Filter Include="Source\ThirdPerson\Game\obj">
+      <UniqueIdentifier>{688FD0D6-B1B6-375D-860F-C8202D046FF8}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ThirdPerson\Game\obj\Game.csproj.nuget.dgspec.json">
+      <Filter>Source\ThirdPerson\Game\obj</Filter>
+    </None>
+    <None Include="..\..\Source\ThirdPerson\Game\obj\Game.csproj.nuget.g.props">
+      <Filter>Source\ThirdPerson\Game\obj</Filter>
+    </None>
+    <None Include="..\..\Source\ThirdPerson\Game\obj\Game.csproj.nuget.g.targets">
+      <Filter>Source\ThirdPerson\Game\obj</Filter>
+    </None>
+    <None Include="..\..\Source\ThirdPerson\Game\obj\project.assets.json">
+      <Filter>Source\ThirdPerson\Game\obj</Filter>
+    </None>
+    <None Include="..\..\Source\ThirdPerson\Game\obj\project.nuget.cache">
+      <Filter>Source\ThirdPerson\Game\obj</Filter>
+    </None>
+    <Filter Include="Source\ThirdPerson\Game\obj\Debug">
+      <UniqueIdentifier>{50C95F80-D716-3312-8994-B9FB4FAB7694}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\ThirdPerson\Game\obj\Debug\net6.0">
+      <UniqueIdentifier>{0DD2A74F-4219-34B1-A2EC-8D6ACF082C14}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ThirdPerson\Game\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs">
+      <Filter>Source\ThirdPerson\Game\obj\Debug\net6.0</Filter>
+    </None>
+    <None Include="..\..\Source\ThirdPerson\Game\obj\Debug\net6.0\Game.AssemblyInfo.cs">
+      <Filter>Source\ThirdPerson\Game\obj\Debug\net6.0</Filter>
+    </None>
+    <None Include="..\..\Source\ThirdPerson\Game\obj\Debug\net6.0\Game.AssemblyInfoInputs.cache">
+      <Filter>Source\ThirdPerson\Game\obj\Debug\net6.0</Filter>
+    </None>
+    <None Include="..\..\Source\ThirdPerson\Game\obj\Debug\net6.0\Game.assets.cache">
+      <Filter>Source\ThirdPerson\Game\obj\Debug\net6.0</Filter>
+    </None>
+    <None Include="..\..\Source\ThirdPerson\Game\obj\Debug\net6.0\Game.csproj.AssemblyReference.cache">
+      <Filter>Source\ThirdPerson\Game\obj\Debug\net6.0</Filter>
+    </None>
+    <None Include="..\..\Source\ThirdPerson\Game\obj\Debug\net6.0\Game.csproj.BuildWithSkipAnalyzers">
+      <Filter>Source\ThirdPerson\Game\obj\Debug\net6.0</Filter>
+    </None>
+    <None Include="..\..\Source\ThirdPerson\Game\obj\Debug\net6.0\Game.csproj.CopyComplete">
+      <Filter>Source\ThirdPerson\Game\obj\Debug\net6.0</Filter>
+    </None>
+    <None Include="..\..\Source\ThirdPerson\Game\obj\Debug\net6.0\Game.csproj.CoreCompileInputs.cache">
+      <Filter>Source\ThirdPerson\Game\obj\Debug\net6.0</Filter>
+    </None>
+    <None Include="..\..\Source\ThirdPerson\Game\obj\Debug\net6.0\Game.csproj.FileListAbsolute.txt">
+      <Filter>Source\ThirdPerson\Game\obj\Debug\net6.0</Filter>
+    </None>
+    <None Include="..\..\Source\ThirdPerson\Game\obj\Debug\net6.0\Game.dll">
+      <Filter>Source\ThirdPerson\Game\obj\Debug\net6.0</Filter>
+    </None>
+    <None Include="..\..\Source\ThirdPerson\Game\obj\Debug\net6.0\Game.GeneratedMSBuildEditorConfig.editorconfig">
+      <Filter>Source\ThirdPerson\Game\obj\Debug\net6.0</Filter>
+    </None>
+    <None Include="..\..\Source\ThirdPerson\Game\obj\Debug\net6.0\Game.GlobalUsings.g.cs">
+      <Filter>Source\ThirdPerson\Game\obj\Debug\net6.0</Filter>
+    </None>
+    <None Include="..\..\Source\ThirdPerson\Game\obj\Debug\net6.0\Game.pdb">
+      <Filter>Source\ThirdPerson\Game\obj\Debug\net6.0</Filter>
+    </None>
+    <Filter Include="Source\ThirdPerson\Game\obj\Debug\net6.0\ref">
+      <UniqueIdentifier>{F3CC7183-4279-3AC2-A801-48DF4109BB16}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ThirdPerson\Game\obj\Debug\net6.0\ref\Game.dll">
+      <Filter>Source\ThirdPerson\Game\obj\Debug\net6.0\ref</Filter>
+    </None>
+    <Filter Include="Source\ThirdPerson\Game\obj\Debug\net6.0\refint">
+      <UniqueIdentifier>{0F3CCCEA-7AC5-3EFF-A48C-A7DECF0BCC94}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ThirdPerson\Game\obj\Debug\net6.0\refint\Game.dll">
+      <Filter>Source\ThirdPerson\Game\obj\Debug\net6.0\refint</Filter>
+    </None>
+    <Filter Include="Source\ThirdPerson\Game.Generated">
+      <UniqueIdentifier>{FA45F0F2-EFBF-3099-AD6A-812EB24ADF79}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ThirdPerson\Game.Generated\CSharpCharacter.cpp">
+      <Filter>Source\ThirdPerson\Game.Generated</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ThirdPerson\Game.Generated\CSharpCharacter.h">
+      <Filter>Source\ThirdPerson\Game.Generated</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

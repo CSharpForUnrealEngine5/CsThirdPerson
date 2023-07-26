@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ThirdPerson-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\UnrealEngine\Dev\CSharpForUnrealEngine5\CSharpExamples\ThirdPerson\Intermediate\Build\Win64\x64\ThirdPersonEditor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.ShadowErrors.InclOrderUnreal5_1.h.obj"
+"C:\UnrealEngine\Dev\CSharpForUnrealEngine5\CSharpExamples\ThirdPerson\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\ThirdPerson\CSharpCharacter.gen.cpp.obj"
+"C:\UnrealEngine\Dev\CSharpForUnrealEngine5\CSharpExamples\ThirdPerson\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\ThirdPerson\ThirdPerson.init.gen.cpp.obj"
+"C:\UnrealEngine\Dev\CSharpForUnrealEngine5\CSharpExamples\ThirdPerson\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\ThirdPerson\ThirdPersonGameMode.gen.cpp.obj"
+"C:\UnrealEngine\Dev\CSharpForUnrealEngine5\CSharpExamples\ThirdPerson\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\ThirdPerson\ThirdPerson.cpp.obj"
+"C:\UnrealEngine\Dev\CSharpForUnrealEngine5\CSharpExamples\ThirdPerson\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\ThirdPerson\ThirdPersonGameMode.cpp.obj"
+"C:\UnrealEngine\Dev\CSharpForUnrealEngine5\CSharpExamples\ThirdPerson\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\ThirdPerson\CSharpCharacter.cpp.obj"
+"C:\UnrealEngine\Dev\CSharpForUnrealEngine5\CSharpExamples\ThirdPerson\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\ThirdPerson\Default.rc2.res"
+/OUT:"C:\UnrealEngine\Dev\CSharpForUnrealEngine5\CSharpExamples\ThirdPerson\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\ThirdPerson\UnrealEditor-ThirdPerson-Win64-DebugGame.lib"

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ThirdPerson",
+			"Path": "C:\\UnrealEngine\\CSharpForUnrealEngine5\\CsThirdPerson\\Source\\ThirdPerson.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ThirdPersonEditor",
+			"Path": "C:\\UnrealEngine\\CSharpForUnrealEngine5\\CsThirdPerson\\Source\\ThirdPersonEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

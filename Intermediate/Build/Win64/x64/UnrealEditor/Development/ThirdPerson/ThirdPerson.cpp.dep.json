@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unrealengine\\dev\\thirdperson\\source\\thirdperson\\thirdperson.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unrealengine\\dev\\thirdperson\\intermediate\\build\\win64\\x64\\thirdpersoneditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "c:\\unrealengine\\dev\\thirdperson\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\thirdperson\\definitions.thirdperson.h",
+            "c:\\unrealengine\\dev\\thirdperson\\source\\thirdperson\\thirdperson.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
