@@ -2,11 +2,10 @@
   Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" ThirdPersonEditor Win64 Development -Project="C:\UnrealEngine\CSharpForUnrealEngine5\CsThirdPerson\ThirdPerson.uproject" -WaitMutex -FromMsBuild
   Log file: C:\Users\Jerome\AppData\Local\UnrealBuildTool\Log.txt
   Using 'git status' to determine working set for adaptive non-unity build (C:\UnrealEngine\CSharpForUnrealEngine5\CsThirdPerson).
-  Invalidating makefile for ThirdPersonEditor (working set of source files changed)
   Parsing headers for ThirdPersonEditor
     Running Internal UnrealHeaderTool C:\UnrealEngine\CSharpForUnrealEngine5\CsThirdPerson\ThirdPerson.uproject C:\UnrealEngine\CSharpForUnrealEngine5\CsThirdPerson\Intermediate\Build\Win64\ThirdPersonEditor\Development\ThirdPersonEditor.uhtmanifest -WarningsAsErrors -installed
   Total of 0 written
-  Reflection code generated for ThirdPersonEditor in 8.7635391 seconds
+  Reflection code generated for ThirdPersonEditor in 10.7711678 seconds
   Building ThirdPersonEditor...
   Using Visual Studio 2022 14.33.31629 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
   [Upgrade]
@@ -25,5 +24,5 @@
   [4/5] Link [x64] UnrealEditor-ThirdPerson.dll
      Creating library C:\UnrealEngine\CSharpForUnrealEngine5\CsThirdPerson\Intermediate\Build\Win64\x64\UnrealEditor\Development\ThirdPerson\UnrealEditor-ThirdPerson.suppressed.lib and object C:\UnrealEngine\CSharpForUnrealEngine5\CsThirdPerson\Intermediate\Build\Win64\x64\UnrealEditor\Development\ThirdPerson\UnrealEditor-ThirdPerson.suppressed.exp
   [5/5] WriteMetadata ThirdPersonEditor.target
-  Total time in Parallel executor: 2.44 seconds
-  Total execution time: 16.89 seconds
+  Total time in Parallel executor: 15.87 seconds
+  Total execution time: 27.95 seconds

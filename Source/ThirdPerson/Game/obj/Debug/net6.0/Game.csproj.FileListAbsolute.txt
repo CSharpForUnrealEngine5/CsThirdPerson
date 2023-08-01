@@ -49,3 +49,4 @@ C:\UnrealEngine\CSharpForUnrealEngine5\CsThirdPerson\Source\ThirdPerson\Game\obj
 C:\UnrealEngine\CSharpForUnrealEngine5\CsThirdPerson\Source\ThirdPerson\Game\obj\Debug\net6.0\refint\Game.dll
 C:\UnrealEngine\CSharpForUnrealEngine5\CsThirdPerson\Source\ThirdPerson\Game\obj\Debug\net6.0\Game.pdb
 C:\UnrealEngine\CSharpForUnrealEngine5\CsThirdPerson\Source\ThirdPerson\Game\obj\Debug\net6.0\ref\Game.dll
+C:\UnrealEngine\CSharpForUnrealEngine5\CsThirdPerson\Source\ThirdPerson\Game\bin\Debug\net6.0\GameFramework.xml
