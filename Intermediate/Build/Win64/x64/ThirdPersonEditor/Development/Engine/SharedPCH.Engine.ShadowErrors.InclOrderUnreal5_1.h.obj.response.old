@@ -1,4 +1,4 @@
-C:\UnrealEngine\Dev\ThirdPerson\Intermediate\Build\Win64\x64\ThirdPersonEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.cpp
+C:\UnrealEngine\CSharpForUnrealEngine5\CsThirdPerson\Intermediate\Build\Win64\x64\ThirdPersonEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.cpp
 /I .
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\UHT
 /I ..\Shaders\Shared
@@ -286,10 +286,10 @@ C:\UnrealEngine\Dev\ThirdPerson\Intermediate\Build\Win64\x64\ThirdPersonEditor\D
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
-/Yc"C:\UnrealEngine\Dev\ThirdPerson\Intermediate\Build\Win64\x64\ThirdPersonEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h"
-/Fp"C:\UnrealEngine\Dev\ThirdPerson\Intermediate\Build\Win64\x64\ThirdPersonEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.pch"
-/Fo"C:\UnrealEngine\Dev\ThirdPerson\Intermediate\Build\Win64\x64\ThirdPersonEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.obj"
-/sourceDependencies C:\UnrealEngine\Dev\ThirdPerson\Intermediate\Build\Win64\x64\ThirdPersonEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.dep.json
+/Yc"C:\UnrealEngine\CSharpForUnrealEngine5\CsThirdPerson\Intermediate\Build\Win64\x64\ThirdPersonEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h"
+/Fp"C:\UnrealEngine\CSharpForUnrealEngine5\CsThirdPerson\Intermediate\Build\Win64\x64\ThirdPersonEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.pch"
+/Fo"C:\UnrealEngine\CSharpForUnrealEngine5\CsThirdPerson\Intermediate\Build\Win64\x64\ThirdPersonEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.obj"
+/sourceDependencies C:\UnrealEngine\CSharpForUnrealEngine5\CsThirdPerson\Intermediate\Build\Win64\x64\ThirdPersonEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.dep.json
 /Zc:inline
 /nologo
 /Oi

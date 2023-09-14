@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "3jiYmIhA7vZPdRtnKwfOGAOgHJS+oU7va3lZ8Bg98lW8c+wiFZaSnQYT2aCPLNGlVFu55VVCwUmUlD2Xu40uPw==",
+  "dgSpecHash": "v6LYMZLCnH5pStBt1nYBOc/XXthj/CgEBEGVJo7O+jYv4aRJFG2i23526p6je1R0ytVYKtqCf3CRbKRJ08Gi0w==",
   "success": true,
-  "projectFilePath": "C:\\UnrealEngine\\CSharpForUnrealEngine5\\CsThirdPerson\\Source\\ThirdPerson\\Game\\Game.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\UnrealEngine\\Test\\CsThirdPerson\\Source\\ThirdPerson\\Game\\Game.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jerome\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\Jerome\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\Jerome\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.22\\microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512"
+  ],
   "logs": []
 }

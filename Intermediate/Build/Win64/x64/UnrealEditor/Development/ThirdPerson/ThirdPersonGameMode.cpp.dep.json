@@ -1,17 +1,17 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\unrealengine\\csharpforunrealengine5\\csthirdperson\\source\\thirdperson\\thirdpersongamemode.cpp",
+        "Source": "c:\\unrealengine\\test\\csthirdperson\\source\\thirdperson\\thirdpersongamemode.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\unrealengine\\csharpforunrealengine5\\csthirdperson\\intermediate\\build\\win64\\x64\\thirdpersoneditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "PCH": "c:\\unrealengine\\test\\csthirdperson\\intermediate\\build\\win64\\x64\\thirdpersoneditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
         "Includes": [
-            "c:\\unrealengine\\csharpforunrealengine5\\csthirdperson\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\thirdperson\\definitions.thirdperson.h",
-            "c:\\unrealengine\\csharpforunrealengine5\\csthirdperson\\source\\thirdperson\\thirdpersongamemode.h",
+            "c:\\unrealengine\\test\\csthirdperson\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\thirdperson\\definitions.thirdperson.h",
+            "c:\\unrealengine\\test\\csthirdperson\\source\\thirdperson\\thirdpersongamemode.h",
             "c:\\unrealengine\\engines\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
             "c:\\unrealengine\\engines\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
             "c:\\unrealengine\\engines\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
             "c:\\unrealengine\\engines\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
-            "c:\\unrealengine\\csharpforunrealengine5\\csthirdperson\\intermediate\\build\\win64\\unrealeditor\\inc\\thirdperson\\uht\\thirdpersongamemode.generated.h"
+            "c:\\unrealengine\\test\\csthirdperson\\intermediate\\build\\win64\\unrealeditor\\inc\\thirdperson\\uht\\thirdpersongamemode.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

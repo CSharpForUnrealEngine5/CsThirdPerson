@@ -25,10 +25,10 @@ void ACSharpCharacter::BeginPlay()
 Super::BeginPlay();
 GLog->Log(TEXT("C#"),ELogVerbosity::Warning,TEXT("Hello from C#"));
 GEngine->AddOnScreenDebugMessage(0,100,FColor::Orange,TEXT("Hello From C#"),true,FVector2D::UnitVector);
-APlayerController* PlayerController=Cast<APlayerController>(Controller);
+ APlayerController* PlayerController=Cast<APlayerController>(Controller);
 if (PlayerController!=nullptr)
 {
-UEnhancedInputLocalPlayerSubsystem* Subsystem=ULocalPlayer::GetSubsystem<UEnhancedInputLocalPlayerSubsystem>(PlayerController->GetLocalPlayer());
+ UEnhancedInputLocalPlayerSubsystem* Subsystem=ULocalPlayer::GetSubsystem<UEnhancedInputLocalPlayerSubsystem>(PlayerController->GetLocalPlayer());
 if (Subsystem!=nullptr)
 {
 Subsystem->AddMappingContext(DefaultMappingContext,0);
@@ -37,7 +37,7 @@ Subsystem->AddMappingContext(DefaultMappingContext,0);
 }
 void ACSharpCharacter::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent)
 {
-UEnhancedInputComponent* EnhancedInputComponent=CastChecked<UEnhancedInputComponent>(PlayerInputComponent);
+ UEnhancedInputComponent* EnhancedInputComponent=CastChecked<UEnhancedInputComponent>(PlayerInputComponent);
 if (EnhancedInputComponent!=nullptr)
 {
 EnhancedInputComponent->BindAction(JumpAction,ETriggerEvent::Triggered,this,TEXT("Jump"));
@@ -48,20 +48,20 @@ EnhancedInputComponent->BindAction(LookAction,ETriggerEvent::Triggered,this,TEXT
 }
 void ACSharpCharacter::Move(FInputActionValue Value)
 {
-FVector2D MovementVector=Value.Get<FVector2D>();
+ FVector2D MovementVector=Value.Get<FVector2D>();
 if (Controller!=nullptr)
 {
-FRotator Rotation=Controller->GetControlRotation();
-FRotator YawRotation=FRotator(0,Rotation.Yaw,0);
-FVector ForwardDirection=FRotationMatrix(YawRotation).GetUnitAxis(EAxis::X);
-FVector RightDirection=FRotationMatrix(YawRotation).GetUnitAxis(EAxis::Y);
+ FRotator Rotation=Controller->GetControlRotation();
+ FRotator YawRotation=FRotator(0,Rotation.Yaw,0);
+ FVector ForwardDirection=FRotationMatrix(YawRotation).GetUnitAxis(EAxis::X);
+ FVector RightDirection=FRotationMatrix(YawRotation).GetUnitAxis(EAxis::Y);
 AddMovementInput(ForwardDirection,(float)(MovementVector.Y),false);
 AddMovementInput(RightDirection,(float)(MovementVector.X),false);
 }
 }
 void ACSharpCharacter::Look(FInputActionValue Value)
 {
-FVector2D LookAxisVector=Value.Get<FVector2D>();
+ FVector2D LookAxisVector=Value.Get<FVector2D>();
 if (Controller!=nullptr)
 {
 AddControllerYawInput((float)(LookAxisVector.X));

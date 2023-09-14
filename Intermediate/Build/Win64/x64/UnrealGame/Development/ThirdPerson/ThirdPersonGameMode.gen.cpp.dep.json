@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unrealengine\\test\\csthirdperson\\intermediate\\build\\win64\\unrealgame\\inc\\thirdperson\\uht\\thirdpersongamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unrealengine\\test\\csthirdperson\\intermediate\\build\\win64\\x64\\thirdperson\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "c:\\unrealengine\\test\\csthirdperson\\intermediate\\build\\win64\\x64\\unrealgame\\development\\thirdperson\\definitions.thirdperson.h",
+            "c:\\unrealengine\\test\\csthirdperson\\source\\thirdperson\\thirdpersongamemode.h",
+            "c:\\unrealengine\\engines\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\unrealengine\\engines\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\unrealengine\\engines\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\unrealengine\\engines\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\unrealengine\\test\\csthirdperson\\intermediate\\build\\win64\\unrealgame\\inc\\thirdperson\\uht\\thirdpersongamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

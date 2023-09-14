@@ -18,17 +18,17 @@ class ACSharpCharacter : public ACharacter {
 GENERATED_BODY()
 public:
 UPROPERTY(BlueprintReadWrite,EditAnywhere)
-USpringArmComponent* CameraBoom;
+ USpringArmComponent* CameraBoom;
 UPROPERTY(BlueprintReadWrite,EditAnywhere)
-UCameraComponent* FollowCamera;
+ UCameraComponent* FollowCamera;
 UPROPERTY(BlueprintReadWrite,EditAnywhere)
-UInputMappingContext* DefaultMappingContext;
+ UInputMappingContext* DefaultMappingContext;
 UPROPERTY(BlueprintReadWrite,EditAnywhere)
-UInputAction* JumpAction;
+ UInputAction* JumpAction;
 UPROPERTY(BlueprintReadWrite,EditAnywhere)
-UInputAction* MoveAction;
+ UInputAction* MoveAction;
 UPROPERTY(BlueprintReadWrite,EditAnywhere)
-UInputAction* LookAction;
+ UInputAction* LookAction;
 ACSharpCharacter();
 UFUNCTION(BlueprintCallable)
 virtual void BeginPlay();

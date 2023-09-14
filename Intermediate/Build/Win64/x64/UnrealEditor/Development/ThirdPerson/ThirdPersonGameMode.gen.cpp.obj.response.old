@@ -1,7 +1,7 @@
-C:\UnrealEngine\Dev\ThirdPerson\Intermediate\Build\Win64\UnrealEditor\Inc\ThirdPerson\UHT\ThirdPersonGameMode.gen.cpp
+C:\UnrealEngine\CSharpForUnrealEngine5\CsThirdPerson\Intermediate\Build\Win64\UnrealEditor\Inc\ThirdPerson\UHT\ThirdPersonGameMode.gen.cpp
 /I .
-/I C:\UnrealEngine\Dev\ThirdPerson\Intermediate\Build\Win64\UnrealEditor\Inc\ThirdPerson\UHT
-/I C:\UnrealEngine\Dev\ThirdPerson\Source
+/I C:\UnrealEngine\CSharpForUnrealEngine5\CsThirdPerson\Intermediate\Build\Win64\UnrealEditor\Inc\ThirdPerson\UHT
+/I C:\UnrealEngine\CSharpForUnrealEngine5\CsThirdPerson\Source
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
 /I Runtime
@@ -290,12 +290,12 @@ C:\UnrealEngine\Dev\ThirdPerson\Intermediate\Build\Win64\UnrealEditor\Inc\ThirdP
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
-/FI"C:\UnrealEngine\Dev\ThirdPerson\Intermediate\Build\Win64\x64\ThirdPersonEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h"
-/FI"C:\UnrealEngine\Dev\ThirdPerson\Intermediate\Build\Win64\x64\UnrealEditor\Development\ThirdPerson\Definitions.ThirdPerson.h"
-/Yu"C:\UnrealEngine\Dev\ThirdPerson\Intermediate\Build\Win64\x64\ThirdPersonEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h"
-/Fp"C:\UnrealEngine\Dev\ThirdPerson\Intermediate\Build\Win64\x64\ThirdPersonEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.pch"
-/Fo"C:\UnrealEngine\Dev\ThirdPerson\Intermediate\Build\Win64\x64\UnrealEditor\Development\ThirdPerson\ThirdPersonGameMode.gen.cpp.obj"
-/sourceDependencies C:\UnrealEngine\Dev\ThirdPerson\Intermediate\Build\Win64\x64\UnrealEditor\Development\ThirdPerson\ThirdPersonGameMode.gen.cpp.dep.json
+/FI"C:\UnrealEngine\CSharpForUnrealEngine5\CsThirdPerson\Intermediate\Build\Win64\x64\ThirdPersonEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h"
+/FI"C:\UnrealEngine\CSharpForUnrealEngine5\CsThirdPerson\Intermediate\Build\Win64\x64\UnrealEditor\Development\ThirdPerson\Definitions.ThirdPerson.h"
+/Yu"C:\UnrealEngine\CSharpForUnrealEngine5\CsThirdPerson\Intermediate\Build\Win64\x64\ThirdPersonEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h"
+/Fp"C:\UnrealEngine\CSharpForUnrealEngine5\CsThirdPerson\Intermediate\Build\Win64\x64\ThirdPersonEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.pch"
+/Fo"C:\UnrealEngine\CSharpForUnrealEngine5\CsThirdPerson\Intermediate\Build\Win64\x64\UnrealEditor\Development\ThirdPerson\ThirdPersonGameMode.gen.cpp.obj"
+/sourceDependencies C:\UnrealEngine\CSharpForUnrealEngine5\CsThirdPerson\Intermediate\Build\Win64\x64\UnrealEditor\Development\ThirdPerson\ThirdPersonGameMode.gen.cpp.dep.json
 /Zc:inline
 /nologo
 /Oi
