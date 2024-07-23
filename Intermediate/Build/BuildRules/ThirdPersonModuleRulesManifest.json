@@ -1,9 +1,0 @@
-{
-	"SourceFiles": [
-		"C:\\UnrealEngine\\Test\\CsThirdPerson\\Source\\ThirdPerson\\ThirdPerson.Build.cs",
-		"C:\\UnrealEngine\\Test\\CsThirdPerson\\Plugins\\CsToCpp\\Source\\CsToCpp\\CsToCpp.Build.cs",
-		"C:\\UnrealEngine\\Test\\CsThirdPerson\\Source\\ThirdPerson.Target.cs",
-		"C:\\UnrealEngine\\Test\\CsThirdPerson\\Source\\ThirdPersonEditor.Target.cs"
-	],
-	"EngineVersion": "5.2.1"
-}
